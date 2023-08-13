@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "Nodemon index.js"
+    "start": "npm run start"
   },
   "author": "Hamza",
   "license": "ISC",
